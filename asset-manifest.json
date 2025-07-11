@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/n2-viaduct/static/css/main.8e354414.css",
-    "main.js": "/n2-viaduct/static/js/main.15c9d7ba.js",
+    "main.css": "/n2-viaduct/static/css/main.0e94d748.css",
+    "main.js": "/n2-viaduct/static/js/main.a5992b82.js",
     "static/js/22475.289e6deb.chunk.js": "/n2-viaduct/static/js/22475.289e6deb.chunk.js",
     "static/js/58497.7d98cc1d.chunk.js": "/n2-viaduct/static/js/58497.7d98cc1d.chunk.js",
     "static/js/65665.a4accc0d.chunk.js": "/n2-viaduct/static/js/65665.a4accc0d.chunk.js",
@@ -536,8 +536,8 @@
     "static/js/59031.772f3ba4.chunk.js": "/n2-viaduct/static/js/59031.772f3ba4.chunk.js",
     "static/js/37356.6983e1f0.chunk.js": "/n2-viaduct/static/js/37356.6983e1f0.chunk.js",
     "index.html": "/n2-viaduct/index.html",
-    "main.8e354414.css.map": "/n2-viaduct/static/css/main.8e354414.css.map",
-    "main.15c9d7ba.js.map": "/n2-viaduct/static/js/main.15c9d7ba.js.map",
+    "main.0e94d748.css.map": "/n2-viaduct/static/css/main.0e94d748.css.map",
+    "main.a5992b82.js.map": "/n2-viaduct/static/js/main.a5992b82.js.map",
     "22475.289e6deb.chunk.js.map": "/n2-viaduct/static/js/22475.289e6deb.chunk.js.map",
     "58497.7d98cc1d.chunk.js.map": "/n2-viaduct/static/js/58497.7d98cc1d.chunk.js.map",
     "65665.a4accc0d.chunk.js.map": "/n2-viaduct/static/js/65665.a4accc0d.chunk.js.map",
@@ -1010,7 +1010,7 @@
     "37356.6983e1f0.chunk.js.map": "/n2-viaduct/static/js/37356.6983e1f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e354414.css",
-    "static/js/main.15c9d7ba.js"
+    "static/css/main.0e94d748.css",
+    "static/js/main.a5992b82.js"
   ]
 }
